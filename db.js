@@ -23,4 +23,6 @@ const pool = new Pool({
   ssl: { rejectUnauthorized: false }
 });
 
+
+//adding comment line
 module.exports = pool;
